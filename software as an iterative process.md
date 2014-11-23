@@ -11,3 +11,4 @@ One of the biggest takeaways I got from the class is that software is rarely eve
 Given this thought and my past life doing advertising for Dos Equis, I felt this picture was an appropriate mantra to keep in mind! 
 
 ![Alt text](http://evanbrodie.files.wordpress.com/2012/10/test-code.png "Optional title")
+
