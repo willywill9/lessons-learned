@@ -24,3 +24,7 @@ These questions are important because:
 •	Make sure they are using RAILS etc not their own framework
 
 •	Make sure computer uses system to check mistakes
+
+If you would like to read more on this topic check out:
+http://www.entrepreneur.com/article/220416
+
