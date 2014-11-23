@@ -28,3 +28,4 @@ These questions are important because:
 If you would like to read more on this topic check out:
 http://www.entrepreneur.com/article/220416
 
+![Programmer](http://i.dailymail.co.uk/i/pix/2013/02/05/article-2274132-174845ED000005DC-146_634x359.jpg "Programmer Example!")
