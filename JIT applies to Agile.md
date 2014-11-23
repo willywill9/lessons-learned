@@ -2,7 +2,7 @@ A key takeaway from this course is the fact that Agile is most often incorrectly
 
 
 <h2>Go Blue!</h2>
-<a href="http://originalhampster.ytmnd.com/">Hamster Dance!</a>
+<a href="http://www.mgoblog.com">MGoBlog</a>
 <img src="http://www.ngngsports.com/wp-content/uploads/2014/10/michigan-football.jpg" alt="Mountain View" style="width:304px;height:228px">
 
 </body>
