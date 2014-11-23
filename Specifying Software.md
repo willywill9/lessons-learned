@@ -1,0 +1,1 @@
+A major takeaway for me was the practice of coming up with user stories when at the beginning stages of specifying a piece of software. The Connextra model of building a user story: “As a [blank] user, I want to be able to [blank] so that I can [blank]” provided a useful template to build out appropriate epics and user stories.
